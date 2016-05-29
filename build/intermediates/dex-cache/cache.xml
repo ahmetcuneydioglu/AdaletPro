@@ -61,7 +61,7 @@
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="67b4f9f846db585c736e4814ed736b89068d85c7">
+        sha1="da2a0a226791057c115fdb67adc38670a5552567">
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_62f119696ac73fba7cd75ef303da45c1b0350724\classes.dex" />
     </item>
     <item
@@ -334,7 +334,7 @@
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="7a81b612cf404ebe37e00d865675195f3cdf2de8">
+        sha1="5d22a3336a4d22c6c4250ea1b30ae67e8a20461b">
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8822f14d7c62061f109f784bb391fe68e733016e\classes.dex" />
     </item>
     <item

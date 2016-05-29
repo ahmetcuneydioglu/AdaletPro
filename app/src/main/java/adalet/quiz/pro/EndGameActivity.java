@@ -13,10 +13,12 @@ import android.view.View.OnClickListener;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.google.android.gms.ads.AdRequest;
+/*import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
+
+*/
 import com.google.android.gms.common.api.GoogleApiClient;
 
 import java.util.HashMap;
@@ -41,11 +43,13 @@ public class EndGameActivity extends AppCompatActivity {
 	Setting_preference setuser;
 	Typeface normal, bold;
 	final private static int DIALOG_LOGIN = 1;
+	/*
 	private InterstitialAd interstitial;
 	private AdView adView;
+	*/
 	GoogleApiClient mclient;
 	/* Your ad unit id. Replace with your actual ad unit id. */
-	private static final String AD_UNIT_ID = DataManager.admobid;
+	//private static final String AD_UNIT_ID = DataManager.admobid;
 	String myusername, deviceid, profileid;
 	SessionManager session;
 	ProgressDialog progress;
@@ -215,6 +219,7 @@ public class EndGameActivity extends AppCompatActivity {
 		}
 	}
 
+	/*
 	public void adfunction() {
 		adView = new AdView(this);
 		adView.setAdSize(AdSize.BANNER);
@@ -237,4 +242,6 @@ public class EndGameActivity extends AppCompatActivity {
 		// Begin loading your interstitial.
 		interstitial.loadAd(adRequest1);
 	}
+
+	*/
 }

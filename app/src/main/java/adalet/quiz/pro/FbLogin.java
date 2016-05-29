@@ -150,7 +150,7 @@ public class FbLogin extends Activity  {
 					public void onSuccess(final LoginResult loginResult) {
 						// App code
 						System.out.println("Success---" + loginResult.getAccessToken());
-						Toast.makeText(FbLogin.this, "Login Successful!", Toast.LENGTH_LONG).show();
+						Toast.makeText(FbLogin.this, "Giriş Başarılı!", Toast.LENGTH_LONG).show();
 						logintype = "2";
 						GraphRequest request =    GraphRequest.newMeRequest(
 								loginResult.getAccessToken(), new GraphRequest.GraphJSONObjectCallback() {

@@ -50,7 +50,7 @@ public class Select_Opponent extends ActionBarActivity {
 	private AdView adView;
 	Typeface normal, bold;
 	/* Your ad unit id. Replace with your actual ad unit id. */
-	private static final String AD_UNIT_ID = DataManager.admobid;
+	//private static final String AD_UNIT_ID = DataManager.admobid;
 	boolean cbonline;
 	TextView txtheader;
 	String user_id, search;
@@ -71,16 +71,20 @@ public class Select_Opponent extends ActionBarActivity {
 		btnsearch = (Button) findViewById(R.id.btnsearch);
 		session = new SessionManager(context);
 		user_id = session.getuserid();
+
+		/*
 		adView = new AdView(context);
 		adView.setAdSize(AdSize.BANNER);
 		adView.setAdUnitId(AD_UNIT_ID);
+      */
+
 
 		adapter = new Custom_Adapter(context);
-		AdRequest adRequest = new AdRequest.Builder().build();
+		//AdRequest adRequest = new AdRequest.Builder().build();
 
-		adView.loadAd(adRequest);
-		LinearLayout ll = (LinearLayout) findViewById(R.id.ad);
-		ll.addView(adView);
+		//adView.loadAd(adRequest);
+		//LinearLayout ll = (LinearLayout) findViewById(R.id.ad);
+		//ll.addView(adView);
 
 		listView = (ListView) findViewById(R.id.lvleaderboard);
 
@@ -216,7 +220,7 @@ public class Select_Opponent extends ActionBarActivity {
 				if (userlist.size() > 0) {
 					displaydata();
 				} else {
-					Toast.makeText(context, "No User...", Toast.LENGTH_LONG)
+					Toast.makeText(context, "Kullanıcı Bulunamadı...", Toast.LENGTH_LONG)
 							.show();
 				}
 			}

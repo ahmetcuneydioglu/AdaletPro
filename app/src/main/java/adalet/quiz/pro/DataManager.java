@@ -20,11 +20,11 @@ public class DataManager {
 	
 	
 	public  static  String timer = "21" ;
-
-	public static int addcounter = 7;  // show interstial ads after every 4 questions
-	public static String appurl = "https://play.google.com/store/apps/details?id=com.quiz.coursee";
-	public static String admobid = "ca-app-pub-6192865524332826/5593641192";
-	public static String share = "You can download Coursee from : "+appurl;
+//ADMOB ALANLARINI YORUMLADIM
+	//public static int addcounter = 7;  // show interstial ads after every 4 questions
+	public static String appurl = "https://play.google.com/store/apps/details?id=adalet.quiz.pro";
+	//public static String admobid = "ca-app-pub-6192865524332826/5593641192";
+	public static String share = "Uygulamayı buradan indirebilirsiniz...hadi karşılıklı oynayalım : "+appurl;
 
 	public static String username = "";
 	public static ArrayList<CategoryList> categorylist;

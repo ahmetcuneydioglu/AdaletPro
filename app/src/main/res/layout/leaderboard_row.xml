@@ -70,7 +70,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="left"
-            android:text="Xp : 50"
+            android:text="Puan : 50"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:textColor="@color/White"
             android:textSize="16dp"

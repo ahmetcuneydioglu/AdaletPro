@@ -104,16 +104,20 @@
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png"
     },
     {
-        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_name.png",
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
@@ -128,12 +132,12 @@
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_ic_googleplayservices.png",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-xhdpi-v4\\common_ic_googleplayservices.png"
-    },
-    {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-xhdpi-v4\\common_ic_googleplayservices.png"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_play.png",

@@ -23,7 +23,7 @@
         android:layout_gravity="center"
         android:background="@color/main_color_500"
         android:gravity="center"
-        android:text="Score"
+        android:text="Puan"
         android:textColor="@color/White"
         android:textSize="30dp"
         android:visibility="visible" />
@@ -45,7 +45,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="Your Score is"
+                android:text="Skorunuz"
                 android:gravity="center"
                 android:padding="8dp"
                 android:textColor="@color/White"

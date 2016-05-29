@@ -337,8 +337,8 @@ public class MainActivity extends AppCompatActivity {
 		if(fragmentposition == 1)
 		{
 			new AlertDialog.Builder(this)
-			.setTitle("Really Exit?")
-			.setMessage("Are you sure you want to exit?")
+			.setTitle("Gerçekten mi?")
+			.setMessage("Çıkış yapmak istediğinize Emin misiniz?")
 			.setNegativeButton(android.R.string.no, null)
 			.setPositiveButton(android.R.string.yes,
 					new DialogInterface.OnClickListener() {
@@ -417,7 +417,7 @@ public class MainActivity extends AppCompatActivity {
 				
 				 sesion.logoutUser();
 				
-			Toast.makeText(getApplicationContext(), "Logout Successfully..", Toast.LENGTH_LONG).show();
+			Toast.makeText(getApplicationContext(), "Çıkış Başarılı..", Toast.LENGTH_LONG).show();
 			
 
 		}

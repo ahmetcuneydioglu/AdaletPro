@@ -36,7 +36,7 @@
             android:padding="5dp"
             android:singleLine="true"
             android:imeOptions="actionSearch"
-            android:hint="Search By Name"
+            android:hint="İsim ile arama yapabilirsiniz"
             android:textColorHint="@color/White"
             android:textColor="@color/White"
             android:background="@drawable/textfield"

@@ -51,7 +51,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/greenbutton"
-                android:text="Login"
+                android:text="Giriş"
                 android:textColor="@color/White" />
         </adalet.quiz.pro.view.MaterialRippleLayout>
 
@@ -71,7 +71,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@drawable/greenbutton"
-                android:text="Register"
+                android:text="Kaydol"
                 android:textColor="@color/White" />
         </adalet.quiz.pro.view.MaterialRippleLayout>
     </LinearLayout>
@@ -81,7 +81,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="  Login With Facebook"
+        android:text="  Facebook ile Giriş"
         android:padding="20dp"
         android:layout_margin="25dp" />
 

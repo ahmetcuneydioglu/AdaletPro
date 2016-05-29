@@ -85,7 +85,7 @@
             android:drawablePadding="5dp"
             android:background="@drawable/greenbutton"
             android:drawableRight="@drawable/right_icon"
-            android:text="Accept"
+            android:text="KABUL ET"
             android:textColor="@android:color/white" />
         
         </adalet.quiz.pro.view.MaterialRippleLayout>
@@ -108,7 +108,7 @@
             android:layout_weight="1"
             android:drawableRight="@drawable/wrong_icon"
                android:background="@drawable/greenbutton"
-            android:text="Reject"
+            android:text="REDDET"
             android:textColor="@android:color/white" />
         
         </adalet.quiz.pro.view.MaterialRippleLayout>

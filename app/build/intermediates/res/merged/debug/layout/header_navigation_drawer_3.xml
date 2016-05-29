@@ -48,7 +48,7 @@
                         android:id="@+id/textView1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="TOTAL"
+                        android:text="TOPLAM"
                         android:textColor="@color/White"
                         android:layout_marginBottom="3dp"
                         android:textSize="18dp"
@@ -85,7 +85,7 @@
                         android:id="@+id/textView2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="WIN"
+                        android:text="GALİBİYET"
                         android:textColor="@color/White"
                         android:layout_marginBottom="3dp"
                         android:textSize="18dp"
@@ -151,7 +151,7 @@
         android:layout_centerHorizontal="true"
         android:paddingBottom="14dp"
         android:paddingLeft="18dp"
-        android:text="Utpal"
+        android:text="Ahmet"
         android:textColor="#fff"
         android:textSize="18dp" />
 
@@ -163,7 +163,7 @@
         android:layout_below="@+id/txtname"
         android:paddingBottom="14dp"
         android:paddingLeft="18dp"
-        android:text="XP : 50"
+        android:text="Puan : 50"
         android:textColor="#fff"
         android:textSize="35dp" />
 

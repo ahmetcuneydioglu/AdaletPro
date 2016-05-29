@@ -21,7 +21,7 @@
     <string name="drawer_title_home">Anasayfa</string>
     <string name="drawer_title_topics">Konular</string>
     <string name="drawer_title_Leaderboard">Lider Tahtası</string>
-    <string name="drawer_title_sent">Duello Gönder</string>
+    <string name="drawer_title_sent">Gönderilen Düellolar</string>
     <string name="drawer_title_history">Geçmiş</string>
     <string name="drawer_title_share">Uygulamayı Paylaş</string>
     <string name="drawer_title_logout">Çıkış</string>
@@ -32,7 +32,7 @@
     <string name="title_activity_login">Adalet Sınavları</string>
     <string name="title_activity_timer_questions">Adalet Sınavları</string>
     <string name="title_activity_profile">Adalet Sınavları</string>
-    <string name="title_activity_select__opponent">Select_Opponent</string>
+    <string name="title_activity_select__opponent">Rakip Seç</string>
     <string name="title_activity_check_profile">CheckProfile</string>
 
 </resources>

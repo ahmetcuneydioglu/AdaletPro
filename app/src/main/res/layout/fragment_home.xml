@@ -34,7 +34,7 @@
                 android:drawableRight="@android:drawable/ic_media_play"
                 android:gravity="center"
                 android:padding="10dp"
-                android:text="Random Opponent"
+                android:text="Rastgele Rakip"
                 android:textColor="@android:color/white" />
         </adalet.quiz.pro.view.MaterialRippleLayout>
         
@@ -57,7 +57,7 @@
                 android:drawableRight="@android:drawable/ic_media_play"
                 android:gravity="center"
                 android:padding="10dp"
-                android:text="Select Opponent"
+                android:text="Rakip Seç"
                 android:textColor="@android:color/white" />
         </adalet.quiz.pro.view.MaterialRippleLayout>
     </LinearLayout>
@@ -79,7 +79,7 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:padding="10dp"
-            android:text="Received"
+            android:text="Düello İstekleri"
             android:textColor="@android:color/white"
             android:textSize="22dp"
             android:textStyle="bold" />

@@ -23,7 +23,7 @@
         android:layout_gravity="center"
         android:background="@color/main_color_500"
         android:gravity="center"
-        android:text="Score"
+        android:text="Puan"
         android:textColor="@color/White"
         android:textSize="30dp"
         android:visibility="visible" />
@@ -47,7 +47,7 @@
                 android:layout_gravity="center|top"
                 android:layout_margin="10dp"
                 android:gravity="center"
-                android:text="You won"
+                android:text="Kazandınız"
                 android:textColor="@color/White"
                 android:textSize="28dp" />
 
@@ -85,7 +85,7 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="4dp"
-                        android:text="Your Score is"
+                        android:text="Puanınız"
                         android:textColor="@color/White"
                         android:textSize="20dp" />
                 </LinearLayout>
@@ -116,7 +116,7 @@
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
-                        android:text="Your Score is"
+                        android:text="Puanınız"
                         android:textColor="@color/White"
                         android:textSize="20dp" />
                 </LinearLayout>

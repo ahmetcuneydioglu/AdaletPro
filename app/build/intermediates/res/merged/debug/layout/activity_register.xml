@@ -40,7 +40,7 @@
             android:layout_height="wrap_content"
             android:textColor="@color/white"
                 android:textColorHint="@color/White"
-            android:text="Select Profile Pic" />
+            android:text="Profil Fotoğrafı Seç" />
 
         <EditText
             android:id="@+id/etemail"
@@ -62,7 +62,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:ems="10"
-            android:hint="First Name"
+            android:hint="Adınız"
             android:textColor="@color/white"
                 android:textColorHint="@color/White"
             android:inputType="textPersonName" />
@@ -73,7 +73,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:ems="10"
-            android:hint="Last Name"
+            android:hint="Soyadınız"
             android:textColor="@color/white"
                 android:textColorHint="@color/White"
             android:inputType="textPersonName" />
@@ -84,7 +84,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:ems="10"
-            android:hint="Password (Min 6 Chars)"
+            android:hint="Şifre (En az 6 Karakter)"
             android:textColor="@color/white"
                 android:textColorHint="@color/White"
             android:inputType="textPassword" />
@@ -95,7 +95,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:ems="10"
-            android:hint="Confirm Password"
+            android:hint="Şifreyi Doğrula"
             android:textColor="@color/white"
                 android:textColorHint="@color/White"
             android:inputType="textPassword" />
@@ -109,7 +109,7 @@
             android:textColor="@color/white"
                 android:textColorHint="@color/White"
             android:focusable="false"
-            android:hint="Gender" />
+            android:hint="Cinsiyet" />
         
         
     </LinearLayout>
@@ -142,7 +142,7 @@
             android:layout_height="wrap_content"
        android:background="@drawable/greenbutton"
                 android:textColor="@color/white"
-            android:text="Register" />
+            android:text="Kaydol" />
 	</adalet.quiz.pro.view.MaterialRippleLayout>
 	
             
@@ -163,7 +163,7 @@
                 android:layout_gravity="center"
         android:background="@drawable/greenbutton"
                 android:textColor="@color/white"
-            android:text="Cancel" />
+            android:text="Kapat" />
         </adalet.quiz.pro.view.MaterialRippleLayout>
 
     </LinearLayout>

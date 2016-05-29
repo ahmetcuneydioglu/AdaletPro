@@ -2378,7 +2378,7 @@ MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ahmet\AndroidStudio
 	android:allowBackup
 		ADDED from C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\src\main\AndroidManifest.xml:27:9-35
 	android:icon
-		ADDED from C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\src\main\AndroidManifest.xml:28:9-45
+		ADDED from C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\src\main\AndroidManifest.xml:28:9-43
 	android:theme
 		ADDED from C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\src\main\AndroidManifest.xml:30:9-45
 activity#adalet.quiz.pro.SplashScreen

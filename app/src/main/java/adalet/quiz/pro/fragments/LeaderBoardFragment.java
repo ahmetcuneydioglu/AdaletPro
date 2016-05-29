@@ -47,10 +47,10 @@ public class LeaderBoardFragment extends Fragment {
 	SessionManager session;
 	JSONArray json1;
 	SharedPreferences prefs;
-	private AdView adView;
+	//private AdView adView;
 	Typeface normal, bold;
 	/* Your ad unit id. Replace with your actual ad unit id. */
-	private static final String AD_UNIT_ID = DataManager.admobid;
+	//private static final String AD_UNIT_ID = DataManager.admobid;
 	boolean cbonline;
 	TextView txtheader;
 	String user_id;
@@ -71,17 +71,20 @@ public class LeaderBoardFragment extends Fragment {
 		bold = Typeface.createFromAsset(context.getAssets(), "bold.ttf");
 		session = new SessionManager(context);
 		user_id = session.getuserid();
+		/*
 		adView = new AdView(context);
 		adView.setAdSize(AdSize.BANNER);
 		adView.setAdUnitId(AD_UNIT_ID);
+		*/
 
 		adapter = new Custom_Adapter(context);
-		AdRequest adRequest = new AdRequest.Builder().build();
+		//AdRequest adRequest = new AdRequest.Builder().build();
 
+		/*
 		adView.loadAd(adRequest);
 		LinearLayout ll = (LinearLayout) rootView.findViewById(R.id.ad);
 		ll.addView(adView);
-
+		*/
 		listView = (ListView) rootView.findViewById(R.id.lvleaderboard);
 
 		listView.setOnItemClickListener(new OnItemClickListener() {

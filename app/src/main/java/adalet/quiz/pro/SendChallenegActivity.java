@@ -45,7 +45,7 @@ public class SendChallenegActivity extends AppCompatActivity {
 	private AdView adView;
 	GoogleApiClient mclient;
 	/* Your ad unit id. Replace with your actual ad unit id. */
-	private static final String AD_UNIT_ID = DataManager.admobid;
+	//private static final String AD_UNIT_ID = DataManager.admobid;
 	String myusername, deviceid, profileid, categoryname;
 	SessionManager session;
 	int myxp =0 ;
@@ -53,7 +53,7 @@ public class SendChallenegActivity extends AppCompatActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_score);
 
-		adfunction();
+		//adfunction();
 		categoryname = DataManager.selectedcategory;
 		session = new SessionManager(getApplicationContext());
 		myusername = session.getuserid();
@@ -164,7 +164,7 @@ public class SendChallenegActivity extends AppCompatActivity {
 			progress.cancel();	
 			if (DataManager.status.equalsIgnoreCase("1")) {
 			
-				Toast.makeText(getApplicationContext(), "Your challeneg has been Sent", Toast.LENGTH_LONG).show();
+				Toast.makeText(getApplicationContext(), "Düello teklifiniz gönderildi", Toast.LENGTH_LONG).show();
 				
 			} else if (DataManager.status.equalsIgnoreCase("false")) {
 				session.logoutUser();
@@ -177,7 +177,8 @@ public class SendChallenegActivity extends AppCompatActivity {
 
 		}
 	}
-	
+
+	/*
 	public void adfunction()
 	{
 		adView = new AdView(this);
@@ -209,6 +210,7 @@ public class SendChallenegActivity extends AppCompatActivity {
 		}
 	}
 
+	*/
 	@Override
 	protected void onPause() {
 		super.onPause();

@@ -186,7 +186,7 @@ public class ProfileActivity extends Activity {
 				
 				 session.logoutUser();
 				
-			Toast.makeText(getApplicationContext(), "Logout Successfully..", Toast.LENGTH_LONG).show();
+			Toast.makeText(getApplicationContext(), "Çıkış Başarılı..", Toast.LENGTH_LONG).show();
 		
 			}
 		}

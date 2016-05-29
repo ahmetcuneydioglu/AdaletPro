@@ -56,8 +56,10 @@ public class Timer_questions extends Activity implements
 	Setting_preference pref;
 	long savedtimer;
 	Vibrator vibe;
+	/*
 	private AdView adView;
 	private static final String AD_UNIT_ID = DataManager.admobid;
+	*/
 	Random rand = new Random();
 	boolean fifty = false, pass = false, time = false, ischallenge = false;
 	Typeface normal, bold;
@@ -103,7 +105,7 @@ public class Timer_questions extends Activity implements
 			}
 
 			public void onFinish() {
-				textView.setText("GET READY..");
+				textView.setText("Başlayalım..");
 				toast.cancel();
 				startup();
 			}
@@ -215,24 +217,26 @@ public class Timer_questions extends Activity implements
 
 		getquestionsanswers(currentQuestion);
 
-		adView = new AdView(this);
 
-		adView.setAdSize(AdSize.BANNER);
-		adView.setAdUnitId(AD_UNIT_ID);
-		AdRequest adRequest = new AdRequest.Builder().build();
+		//adView = new AdView(this);
 
-		adView.loadAd(adRequest);
-		LinearLayout ll = (LinearLayout) findViewById(R.id.ad);
-		ll.addView(adView);
+		//adView.setAdSize(AdSize.BANNER);
+		//adView.setAdUnitId(AD_UNIT_ID);
+		//AdRequest adRequest = new AdRequest.Builder().build();
 
-		interstitial = new InterstitialAd(this);
-		interstitial.setAdUnitId("ca-app-pub-6192865524332826/7070374392");
+		//adView.loadAd(adRequest);
+		//LinearLayout ll = (LinearLayout) findViewById(R.id.ad);
+		//ll.addView(adView);
+
+		//interstitial = new InterstitialAd(this);
+		//interstitial.setAdUnitId("ca-app-pub-6192865524332826/7070374392");
 
 		// Create ad request.
-		AdRequest adRequest1 = new AdRequest.Builder().build();
+		//AdRequest adRequest1 = new AdRequest.Builder().build();
 
 		// Begin loading your interstitial.
-		interstitial.loadAd(adRequest1);
+		//interstitial.loadAd(adRequest1);
+		/*
 		AdListener adListener = new AdListener() {
 
 			@Override
@@ -248,10 +252,12 @@ public class Timer_questions extends Activity implements
 				nextquestion(0);
 			}
 		};
+		*/
 
-		interstitial.setAdListener(adListener);
+		//interstitial.setAdListener(adListener);
 	}
 
+	/*
 	public void displayInterstitial() {
 		if (interstitial.isLoaded()) {
 			interstitial.show();
@@ -259,17 +265,11 @@ public class Timer_questions extends Activity implements
 			displaynextquestion();
 		}
 	}
+	*/
 
-	@Override
-	public void onClick(View v1) {
 
-		timer.cancel();
 
-		TextView tmp = (TextView) v1;
-		String sel = tmp.getText().toString();
 
-		selectanswer(0, tmp, sel);
-	}
 
 	public void selectanswer(int SPLASHTIME, final TextView tmp,
 			final String sel) {
@@ -361,6 +361,7 @@ public class Timer_questions extends Activity implements
 				prefsEditor.putInt(TAG_NAME, addcounter);
 				prefsEditor.commit();
 
+				/*
 				if (addcounter == DataManager.addcounter) {
 					displayInterstitial();
 					addcounter = 0;
@@ -370,6 +371,8 @@ public class Timer_questions extends Activity implements
 					displaynextquestion();
 
 				}
+				*/
+				displaynextquestion();
 			}
 
 		}, SPLASHTIME);
@@ -525,6 +528,16 @@ public class Timer_questions extends Activity implements
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+
+	@Override
+	public void onClick(View v) {
+		timer.cancel();
+
+		TextView tmp = (TextView) v;
+		String sel = tmp.getText().toString();
+
+		selectanswer(0, tmp, sel);
 	}
 
 	public class MyCounter extends CountDownTimer {

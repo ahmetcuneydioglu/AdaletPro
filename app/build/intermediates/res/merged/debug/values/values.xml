@@ -676,7 +676,7 @@
     <string name="drawer_title_history">Geçmiş</string>
     <string name="drawer_title_home">Anasayfa</string>
     <string name="drawer_title_logout">Çıkış</string>
-    <string name="drawer_title_sent">Duello Gönder</string>
+    <string name="drawer_title_sent">Gönderilen Düellolar</string>
     <string name="drawer_title_share">Uygulamayı Paylaş</string>
     <string name="drawer_title_splash_screens">Fortin Quiz Challenge</string>
     <string name="drawer_title_topics">Konular</string>
@@ -707,7 +707,7 @@
     <string name="title_activity_login">Adalet Sınavları</string>
     <string name="title_activity_profile">Adalet Sınavları</string>
     <string name="title_activity_register">Adalet Sınavları</string>
-    <string name="title_activity_select__opponent">Select_Opponent</string>
+    <string name="title_activity_select__opponent">Rakip Seç</string>
     <string name="title_activity_splash_screen">Adalet Sınavları</string>
     <string name="title_activity_timer_questions">Adalet Sınavları</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>

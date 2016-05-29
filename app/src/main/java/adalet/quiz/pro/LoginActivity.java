@@ -193,11 +193,11 @@ public class LoginActivity extends Activity implements OnClickListener {
 				resetemail = etemail.getText().toString();
 
 				if (resetemail.length() < 1) {
-					Toast.makeText(LoginActivity.this, "Enter Email address!",
+					Toast.makeText(LoginActivity.this, "Email Adresini Yaz!",
 							Toast.LENGTH_LONG).show();
 				} else if (!resetemail.contains("@")) {
 					Toast.makeText(LoginActivity.this,
-							"Enter valid Email Address", Toast.LENGTH_LONG)
+							"Geçerli Bir E-mail Adresi Yaz", Toast.LENGTH_LONG)
 							.show();
 				} else {
 
@@ -244,7 +244,7 @@ public class LoginActivity extends Activity implements OnClickListener {
 				
 					Toast.makeText(
 							getApplicationContext(),
-							"We have sent Password on your registered Email Address.",
+							"Kayıtlı E-mail adresine bir e-posta gönderildi",
 							Toast.LENGTH_LONG).show();
 			
 			
@@ -300,10 +300,10 @@ public class LoginActivity extends Activity implements OnClickListener {
 				WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 
 		if (email.length() < 2) {
-			etemail.setError("Please enter valid email");
+			etemail.setError("Lütfen Geçerli bir email giriniz..");
 			etemail.setFocusable(true);
 		} else if (password.length() < 6) {
-			etpassword.setError("Please enter valid password");
+			etpassword.setError("Lütfen Geçerli bir email giriniz..");
 			etpassword.setFocusable(true);
 		} else {
 
@@ -312,16 +312,16 @@ public class LoginActivity extends Activity implements OnClickListener {
 					if (email.contains(".")) {
 						new login().execute();
 					} else {
-						etemail.setError("Please enter valid email");
+						etemail.setError("Lütfen Geçerli bir email giriniz..");
 						etemail.setFocusable(true);
 					}
 				} else {
-					etemail.setError("Please enter valid email");
+					etemail.setError("Lütfen Geçerli bir email giriniz..");
 					etemail.setFocusable(true);
 				}
 			} else {
 				Toast.makeText(LoginActivity.this,
-						"Please Connect to Internet...", Toast.LENGTH_LONG)
+						"Lütfen İnternete Bağlanınız...", Toast.LENGTH_LONG)
 						.show();
 			}
 
@@ -368,7 +368,7 @@ public class LoginActivity extends Activity implements OnClickListener {
 
 			} else {
 				etpassword.setFocusable(true);
-				etpassword.setError("UserName or Password invalid");
+				etpassword.setError("Kullanıcı adı veya Şifre geçersiz.");
 				etpassword.setFocusable(true);
 			}
 

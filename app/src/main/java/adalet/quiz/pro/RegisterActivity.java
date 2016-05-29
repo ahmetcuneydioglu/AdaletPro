@@ -228,11 +228,11 @@ public class RegisterActivity extends Activity implements OnClickListener {
 
 		TextView txtheader = (TextView) myDialog.findViewById(R.id.txtheader);
 
-		txtheader.setText("Select Gender");
+		txtheader.setText("Cinsiyetiniz");
 
 		ArrayList<String> genderlist = new ArrayList<String>();
-		genderlist.add("Male");
-		genderlist.add("Female");
+		genderlist.add("Erkek");
+		genderlist.add("Kadın");
 
 		final ListView listview = (ListView) myDialog
 				.findViewById(R.id.spinnerlist);
@@ -269,23 +269,23 @@ public class RegisterActivity extends Activity implements OnClickListener {
 				WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 
 		if (email.length() < 2) {
-			etemail.setError("Please enter valid email");
+			etemail.setError("Geçerli E-posta Adresini girin");
 			etemail.setFocusable(true);
 		} else if (firstname.length() < 1) {
-			etfname.setError("Please enter valid first name");
+			etfname.setError("İsim uzunluğu çık kısa");
 			etfname.setFocusable(true);
 		} else if (password.length() < 1) {
-			etpassword.setError("Please enter valid password");
+			etpassword.setError("Şifre uzunluğu çok kısa...");
 			etpassword.setFocusable(true);
 		} else if (confirmpassword.length() < 1) {
-			etconfirmpass.setError("Please enter valid confirm password");
+			etconfirmpass.setError("Şifre uzunluğu çok kısa");
 			etconfirmpass.setFocusable(true);
 		} else if (lastname.length() < 1) {
-			etlname.setError("Please enter valid last name");
+			etlname.setError("Soy isim çok kısa");
 			etlname.setFocusable(true);
 		} else {
 			if (!password.equals(confirmpassword)) {
-				etconfirmpass.setError("Password does not match");
+				etconfirmpass.setError("Parola Eşleşmiyor");
 				etconfirmpass.setFocusable(true);
 			} else {
 				if (connection.isConnectingToInternet()) {
@@ -293,16 +293,16 @@ public class RegisterActivity extends Activity implements OnClickListener {
 						if (email.contains(".")) {
 							new UploadFileToServer().execute();
 						} else {
-							etemail.setError("Please enter valid email");
+							etemail.setError("Lütfen Geçerli bir eposta giriniz");
 							etemail.setFocusable(true);
 						}
 					} else {
-						etemail.setError("Please enter valid email");
+						etemail.setError("Lütfen Geçerli bir eposta giriniz");
 						etemail.setFocusable(true);
 					}
 				} else {
 					Toast.makeText(RegisterActivity.this,
-							"Please Connect to Internet...", Toast.LENGTH_LONG)
+							"Lütfen internete bağlanınız...", Toast.LENGTH_LONG)
 							.show();
 				}
 			}

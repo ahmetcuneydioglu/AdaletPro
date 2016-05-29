@@ -286,7 +286,7 @@ public class HomeFragment extends Fragment {
 					+ challengelist.get(position).getLastname();
 
 			holder.txtchallenegefrom.setText("" + fullname
-					+ "  has Challeneged you");
+					+ "  size meydan okudu");
 			holder.txtchallenegefrom.setTag(challengelist.get(position)
 					.getUserid());
 			holder.btnaccept.setTag("" + position);
@@ -364,7 +364,7 @@ public class HomeFragment extends Fragment {
 			if (DataManager.status.equalsIgnoreCase("1")) {
 
 				Toast.makeText(getActivity(),
-						"You have rejected Challege", Toast.LENGTH_LONG).show();
+						"Meydan okumayı reddettiniz", Toast.LENGTH_LONG).show();
 				
 				new getreceivedChallenges().execute();
 			} else if (DataManager.status.equalsIgnoreCase("false")) {
