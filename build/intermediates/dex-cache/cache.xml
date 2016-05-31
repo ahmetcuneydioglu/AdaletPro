@@ -2,25 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_f166133597446eca69ac1ab12d3f1b0d60ef0b6f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_b041a76f3dd074b523a831244e40b870b9cc0e04\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_d6c8fe875b8b42a6dd544f919ba483d8c0d441a0\classes.dex" />
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_1fc1dae4601ce0122685597aae65a415221cdffc\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
@@ -30,39 +16,53 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_3b164edb35d9e2256d13c3cf685f62e55397990a\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_4e6c2cfac3d8a653f3daa9c3684232b57ea027ac\classes.dex" />
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_eaab1212f70f6a2413a7b5103a53683f47b8cb1f\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_c5f32b8b55b4bdcf176f2a7312ab68415d077f7d\classes.dex" />
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_4bcf574e79e81ec8bf3df822ae8bc0e682a61dfa\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.0_07d4ebec3290fd19ffbb8f85dfaf35b6a2dc96f6\classes.dex" />
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_a8290fa86bc6b37533a1eb59804c67bd5d6c8c51\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_d75148c99b8564413b7992138d14b475112e3df0\classes.dex" />
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_a9851589b0edf368593c79fb260bf1698f996900\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="da2a0a226791057c115fdb67adc38670a5552567">
+        sha1="b972e0f6d0de02d635d67e5a6dcee38580a18204">
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_62f119696ac73fba7cd75ef303da45c1b0350724\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_73fba9b638fa9fd580c1b1571cd92cc187bd144e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_924d7683c253926a4d75c73568cbd6e25b8ecd60\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\libs\httpmime-4.3.6.jar"
@@ -72,32 +72,11 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3.6_a1fe31de9339761732db8285f488adf70fd9d55f\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.0_a6153feab8a8a40d3a79b296844c9221766bd129\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_33266bea7a30c8e84d3a01311fa05218e33b294b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_4d405a7c5b0113152c5c0aa63b14bdc90cc53dd1\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_7d5d460c6afc3cdc32e917963398f3b4144ff709\classes.dex" />
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_51a620cf1da5e2deb06deb84d5e525bc1bf56155\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
@@ -114,46 +93,11 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_482924bbcc9a9b8242412c31371f2a1949b508c6\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_35045e01ea6eaa76b4c9c2edc0cbfc3de9cd6c6d\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_9c9d98e918193df87babb6102439f65f4071c704\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_8f348682a4bb0cdfebdf7416b03a8b5ef44eab7c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.0_7b6876a4da88b44983f91c81d70e4d4686373b16\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_46bc6fb8ffca82226775c4b9ac19278a68ab5cf9\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_b18d14dbc2c1a41501275362cf7c4f1e2f12bc0d\classes.dex" />
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_00e2b9bee4f194bb61bbf0204ff061a601343a0a\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\libs\Shutterbug-1.0.0.jar"
@@ -163,32 +107,18 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\2\Shutterbug-1.0.0_cd7773f05f6cb59bc3ae8eee8dbc23fa3419262f\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.0_88c290cd50e8ecb66d79b96cac1f661d035651af\classes.dex" />
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_1846f62aaf58cd16c204c6455b90aba17560f943\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_accedccabbbc04b5ee13a14dc21d4ba0500f15d0\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_500365caee8431fe25c9b5a4df39db97704c5763\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_dbc3b5214635ba568fd18fba2e1b1503d33aba53\classes.dex" />
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_d299a7db365314fb6690ca61f4975090ca6ad772\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
@@ -198,20 +128,6 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_748b20d8c8a923b1112fdbd49e904b94513fcf7e\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.0_723db5ea84817b344a83cdd51180a97c5673b1ae\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_65fbef2102f2acf1d30cadf28d2b57acfa2c3a7e\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="true"
         revision="23.0.1"
@@ -219,18 +135,11 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_721924bf875c6a91dfd8c312b842099085ec4d03\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.0_f4a443912e483738cd0bb5d3bc9bcac895c8c6bc\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_f4e49314d0232268daff01def52eae560fcff750\classes.dex" />
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_25bd38c3c7a422b2150039d2ee62057440e1430d\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
@@ -247,46 +156,18 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_c77b496c91e2f08f806ee40698e3ab6d60df8e05\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_418524c7d30198884a342dff5240f0a868b92801\classes.dex" />
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_8ce587e7f02ca084c0ef3a9be2079a15f27a06bb\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.0_596ceac3ac53803a56ae1b9ec725ad2f69b88e15\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_7b37101dff14af1137163eb16f06f99479f186fb\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_cba6e74904f1444787f462ae2fe2d6162f7e1e49\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="733964f04c339e425439545b1d172c23b53f8c13">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_90f49b1b015e36af524f95abc4b0fb389d2653c9\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_b5d12b84d60de20d80c7749405d78035486df63b\classes.dex" />
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_1b2f8c28303381f0212a255e3ea07efef538aadf\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\libs\universal-image-loader-1.9.3.jar"
@@ -296,25 +177,11 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_a85fb583e45e49afc56222f546b5f1d8f1a98530\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_8fce76c1f5ca1a80ba66af532b0bc1abdbc158ea\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_2d4866d54a4a67ec7fa31b72fe23e1d3161faa8c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_367a20d6723810f09ccec006bba492802f90800e\classes.dex" />
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_6a036ab7ec0a33e9bf697ab133b0d4faa0aef38f\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\libs\httpclient-4.3.6.jar"
@@ -324,17 +191,10 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.6_ebcf5c6c147902168a7d27e46f78b67dcdf121e7\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_12037005837d684502ff528499495675e85d3303\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="5d22a3336a4d22c6c4250ea1b30ae67e8a20461b">
+        sha1="434858cdf52058ed0492ab49f2ceecd77a0a0fc8">
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8822f14d7c62061f109f784bb391fe68e733016e\classes.dex" />
     </item>
     <item
@@ -345,53 +205,53 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_415e77337fbe8923433186b20e6670ba0b9dea4c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_0a778bcfd59ebfe6aab8a3ec4231ae7e83f5dc3f\classes.dex" />
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_391b1fdf420c2702b5c40e9802495922faaa633c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_72cc39f53c32b14c7cc127ac7af63e389dd20493\classes.dex" />
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_b8077acd5fbcb6c3915fb0c9a3feb3b017e8ab4e\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="69472e334350cafbf442776da05c9a04955252fb">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_cded8bef85b0891db77098004ac1e05132ecf9c0\classes.dex" />
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_2056c8acc289e3447c25237c49c0634ae7ebb9ad\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_1a6b8971d678c76f98a0a59881cf4b7c15dc3dfd\classes.dex" />
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_3c9d28fc67720ac314ef28af2ec16d73e0f6ca93\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_da60c02cb51d341ceff4d49903be8a0a8fd4cb9b\classes.dex" />
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_d2357530642e54e2f1f2f156bc93ce4cc401812e\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_9e8712f50684aba0c1c5426714966e5f58404431\classes.dex" />
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_62ae96ff14ce0bf070b7d52f06158d8321f98a04\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_9aa496d9a2d348626032b99faed8e367baefdf79\classes.dex" />
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_83b84303fa7d1d31b5d69b79718781488cdb1e9b\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\libs\httpcore-4.3.3.jar"
@@ -401,11 +261,11 @@
         <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3.3_7f2690c96f65bc203e71ba080e50f6a56b7f9243\classes.dex" />
     </item>
     <item
-        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jar="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_bd5c042d25f4c21578abc65dd2eae022d6cee9cd\classes.dex" />
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\ahmet\AndroidStudioProjects\AdaletPro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_b48f805a5b3700374309225566e95315524de63a\classes.dex" />
     </item>
     <item
         jar="C:\Users\ahmet\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"

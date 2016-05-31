@@ -374,8 +374,8 @@
     <color name="place_autocomplete_prediction_primary_text">#212121</color>
     <color name="place_autocomplete_prediction_primary_text_highlight">#757575</color>
     <color name="place_autocomplete_prediction_secondary_text">#757575</color>
-    <color name="place_autocomplete_search_hint">#BDBDBD</color>
-    <color name="place_autocomplete_search_text">#212121</color>
+    <color name="place_autocomplete_search_hint">#42000000</color>
+    <color name="place_autocomplete_search_text">#DE000000</color>
     <color name="place_autocomplete_separator">#1F000000</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -421,18 +421,11 @@
     <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
     <declare-styleable name="AlertDialog"><attr name="android:layout"/><attr format="reference" name="buttonPanelSideLayout"/><attr format="reference" name="listLayout"/><attr format="reference" name="multiChoiceItemLayout"/><attr format="reference" name="singleChoiceItemLayout"/><attr format="reference" name="listItemLayout"/></declare-styleable>
     <declare-styleable name="AppCompatTextView"><attr format="reference|boolean" name="textAllCaps"/><attr name="android:textAppearance"/></declare-styleable>
-    <declare-styleable name="AppDataSearch"/>
     <declare-styleable name="CircularProgressButton"><attr format="reference" name="cpb_selectorIdle"/><attr format="reference" name="cpb_selectorComplete"/><attr format="reference" name="cpb_selectorError"/><attr format="string" name="cpb_textComplete"/><attr format="string" name="cpb_textIdle"/><attr format="string" name="cpb_textError"/><attr format="string" name="cpb_textProgress"/><attr format="color" name="cpb_colorProgress"/><attr format="color" name="cpb_colorIndicator"/><attr format="color" name="cpb_colorIndicatorBackground"/><attr format="reference" name="cpb_iconError"/><attr format="reference" name="cpb_iconComplete"/><attr format="dimension" name="cpb_cornerRadius"/><attr format="dimension" name="cpb_paddingProgress"/></declare-styleable>
     <declare-styleable name="CompoundButton"><attr name="android:button"/><attr format="color" name="buttonTint"/><attr name="buttonTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
-    <declare-styleable name="Corpus"><attr format="string" name="corpusId"/><attr format="string" name="corpusVersion"/><attr format="string" name="contentProviderUri"/><attr format="boolean" name="trimmable"/><attr format="string" name="schemaOrgType"/><attr format="boolean" name="semanticallySearchable"/><attr format="boolean" name="perAccountTemplate"/></declare-styleable>
     <declare-styleable name="CustomWalletTheme"><attr format="enum" name="windowTransitionStyle"><enum name="slide" value="1"/><enum name="none" value="2"/></attr></declare-styleable>
     <declare-styleable name="DrawerArrowToggle"><attr format="color" name="color"/><attr format="boolean" name="spinBars"/><attr format="dimension" name="drawableSize"/><attr format="dimension" name="gapBetweenBars"/><attr format="dimension" name="arrowHeadLength"/><attr format="dimension" name="arrowShaftLength"/><attr format="dimension" name="barLength"/><attr format="dimension" name="thickness"/></declare-styleable>
-    <declare-styleable name="FeatureParam"><attr format="string" name="paramName"/><attr format="string" name="paramValue"/></declare-styleable>
     <declare-styleable name="FloatLabeledEditText"><attr format="string" name="fletFloatingHint"/><attr format="boolean" name="fletSingleLine"/><attr format="boolean" name="fletPassword"/><attr format="reference" name="fletTextBackground"/><attr name="fletTextGravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr><attr format="integer" name="fletTextLines"/><attr format="reference|color" name="fletHintTextColor"/><attr format="reference|color" name="fletTextColor"/><attr format="string" name="fletImeActionLabel"/><attr format="integer" name="fletImeActionId"/><attr name="fletInputType"><flag name="none" value="0x00000000"/><flag name="text" value="0x00000001"/><flag name="textCapCharacters" value="0x00001001"/><flag name="textCapWords" value="0x00002001"/><flag name="textCapSentences" value="0x00004001"/><flag name="textAutoCorrect" value="0x00008001"/><flag name="textAutoComplete" value="0x00010001"/><flag name="textMultiLine" value="0x00020001"/><flag name="textImeMultiLine" value="0x00040001"/><flag name="textNoSuggestions" value="0x00080001"/><flag name="textUri" value="0x00000011"/><flag name="textEmailAddress" value="0x00000021"/><flag name="textEmailSubject" value="0x00000031"/><flag name="textShortMessage" value="0x00000041"/><flag name="textLongMessage" value="0x00000051"/><flag name="textPersonName" value="0x00000061"/><flag name="textPostalAddress" value="0x00000071"/><flag name="textPassword" value="0x00000081"/><flag name="textVisiblePassword" value="0x00000091"/><flag name="textWebEditText" value="0x000000a1"/><flag name="textFilter" value="0x000000b1"/><flag name="textPhonetic" value="0x000000c1"/><flag name="textWebEmailAddress" value="0x000000d1"/><flag name="textWebPassword" value="0x000000e1"/><flag name="number" value="0x00000002"/><flag name="numberSigned" value="0x00001002"/><flag name="numberDecimal" value="0x00002002"/><flag name="numberPassword" value="0x00000012"/><flag name="phone" value="0x00000003"/><flag name="datetime" value="0x00000004"/><flag name="date" value="0x00000014"/><flag name="time" value="0x00000024"/></attr><attr name="fletImeOptions"><flag name="normal" value="0x00000000"/><flag name="actionUnspecified" value="0x00000000"/><flag name="actionNone" value="0x00000001"/><flag name="actionGo" value="0x00000002"/><flag name="actionSearch" value="0x00000003"/><flag name="actionSend" value="0x00000004"/><flag name="actionNext" value="0x00000005"/><flag name="actionDone" value="0x00000006"/><flag name="actionPrevious" value="0x00000007"/><flag name="flagNoFullscreen" value="0x2000000"/><flag name="flagNavigatePrevious" value="0x4000000"/><flag name="flagNavigateNext" value="0x8000000"/><flag name="flagNoExtractUi" value="0x10000000"/><flag name="flagNoAccessoryAction" value="0x20000000"/><flag name="flagNoEnterAction" value="0x40000000"/><flag name="flagForceAscii" value="0x80000000"/></attr></declare-styleable>
-    <declare-styleable name="GlobalSearch"><attr format="boolean" name="searchEnabled"/><attr format="string" localization="suggested" name="searchLabel"/><attr format="string" localization="suggested" name="settingsDescription"/><attr format="string" name="defaultIntentAction"/><attr format="string" name="defaultIntentData"/><attr format="string" name="defaultIntentActivity"/></declare-styleable>
-    <declare-styleable name="GlobalSearchCorpus"><attr format="boolean" name="allowShortcuts"/></declare-styleable>
-    <declare-styleable name="GlobalSearchSection"><attr format="enum" name="sectionType"><enum name="text1" value="0"/><enum name="text2" value="1"/><enum name="icon_uri" value="2"/><enum name="intent_action" value="3"/><enum name="intent_data" value="4"/><enum name="intent_data_id" value="5"/><enum name="intent_extra_data" value="6"/><enum name="large_icon_uri" value="7"/><enum name="intent_activity" value="8"/><enum name="thing_proto" value="9"/></attr><attr format="string" localization="suggested" name="sectionContent"/></declare-styleable>
-    <declare-styleable name="IMECorpus"><attr format="boolean" name="inputEnabled"/><attr format="enum" name="sourceClass"><enum name="email" value="0"/><enum name="contact" value="1"/><enum name="instant_message" value="2"/></attr><attr format="string" name="userInputTag"/><attr format="string" name="userInputSection"/><attr format="string" name="userInputValue"/><attr format="string" name="toAddressesSection"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
@@ -451,8 +444,6 @@
     <declare-styleable name="RobotoTextView"><attr format="enum" name="typeface"><enum name="robotoBlack" value="0"/><enum name="robotoBlackItalic" value="1"/><enum name="robotoBold" value="2"/><enum name="robotoBoldItalic" value="3"/><enum name="robotoBoldCondensed" value="4"/><enum name="robotoBoldCondensedItalic" value="5"/><enum name="robotoCondensed" value="6"/><enum name="robotoCondensedItalic" value="7"/><enum name="robotoItalic" value="8"/><enum name="robotoLight" value="9"/><enum name="robotoLightItalic" value="10"/><enum name="robotoMedium" value="11"/><enum name="robotoMediumItalic" value="12"/><enum name="robotoRegular" value="13"/><enum name="robotoThin" value="14"/><enum name="robotoThinItalic" value="15"/></attr></declare-styleable>
     <declare-styleable name="ScaledLinearLayout"><attr format="float" name="linear_layout_ratio"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
-    <declare-styleable name="Section"><attr format="string" name="sectionId"/><attr format="enum" name="sectionFormat"><enum name="plain" value="0"/><enum name="html" value="1"/><enum name="rfc822" value="2"/><enum name="url" value="3"/></attr><attr format="boolean" name="noIndex"/><attr format="integer" name="sectionWeight"/><attr format="boolean" name="indexPrefixes"/><attr format="string" name="subsectionSeparator"/><attr format="string" name="schemaOrgProperty"/></declare-styleable>
-    <declare-styleable name="SectionFeature"><attr format="enum" name="featureType"><enum name="match_global_nicknames" value="1"/><enum name="demote_common_words" value="2"/><enum name="demote_rfc822_hostnames" value="3"/><enum name="omnibox_url_section" value="4"/><enum name="omnibox_title_section" value="5"/><enum name="index_entity_types" value="6"/></attr></declare-styleable>
     <declare-styleable name="ShaderImageView"><attr format="boolean" name="siSquare"/><attr format="color" name="siBorderColor"/><attr format="dimension" name="siBorderWidth"/><attr format="float" name="siBorderAlpha"/><attr format="integer|reference" name="siForeground"/><attr format="dimension" name="siRadius"/><attr name="siArrowPosition"/><attr format="dimension" name="siTriangleHeight"/><attr format="integer|reference" name="siShape"/><attr name="siBorderType"/><attr name="siStrokeCap"/><attr name="siStrokeJoin"/><attr format="dimension" name="siStrokeMiter"/></declare-styleable>
     <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize"><enum name="standard" value="0"/><enum name="wide" value="1"/><enum name="icon_only" value="2"/></attr><attr format="reference|enum" name="colorScheme"><enum name="dark" value="0"/><enum name="light" value="1"/><enum name="auto" value="2"/></attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/></declare-styleable>
@@ -579,7 +570,6 @@
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="cast_notification_id" type="id"/>
-    <item name="crash_reporting_present" type="id"/>
     <item name="home" type="id"/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
@@ -589,7 +579,7 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <integer name="google_play_services_version">9080000</integer>
+    <integer name="google_play_services_version">8487000</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -610,6 +600,8 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="accept">Accept</string>
     <string name="app_name">Adalet Sınavları</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_disconnect">Disconnect</string>
@@ -642,8 +634,6 @@
     <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
     <string name="common_google_play_services_network_error_title">Network Error</string>
     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
-    <string name="common_google_play_services_resolution_required_text">Please complete action required by <ns1:g id="app_name">%1$s</ns1:g>.</string>
-    <string name="common_google_play_services_resolution_required_title">Google Play services requires an action</string>
     <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
     <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
     <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
@@ -699,9 +689,6 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
-    <string name="tagmanager_preview_dialog_button">Continue</string>
-    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
-    <string name="tagmanager_preview_dialog_title">Preview</string>
     <string name="title_activity_check_profile">CheckProfile</string>
     <string name="title_activity_fb_login">Adalet Sınavları</string>
     <string name="title_activity_login">Adalet Sınavları</string>

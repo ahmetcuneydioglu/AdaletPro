@@ -12,10 +12,6 @@
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\src\\main\\res\\drawable-ldpi\\frame_12.png"
     },
     {
-        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
-    },
-    {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\frame_8.png",
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\src\\main\\res\\drawable-ldpi\\frame_8.png"
     },

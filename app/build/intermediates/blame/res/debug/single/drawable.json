@@ -48,6 +48,10 @@
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
     },
     {
+        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
@@ -65,7 +69,7 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
@@ -81,7 +85,7 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyle.xml",
@@ -113,7 +117,7 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
@@ -121,7 +125,7 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
@@ -181,7 +185,7 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -193,7 +197,7 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
@@ -201,7 +205,7 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -209,7 +213,7 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_cursor_drawable_accent.xml",
@@ -229,15 +233,15 @@
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundbtn.xml",
-        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\src\\main\\res\\drawable\\roundbtn.xml"
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
         "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundbtn.xml",
+        "source": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\src\\main\\res\\drawable\\roundbtn.xml"
     },
     {
         "merged": "C:\\Users\\ahmet\\AndroidStudioProjects\\AdaletPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
